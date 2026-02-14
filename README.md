@@ -1,43 +1,46 @@
-<h2 align="left">Techs</h2>
+# Olá 👋, me chamo Leonardo Mendes
 
-###
+🎯 **Product Owner em transição para Desenvolvimento Front-end & Mobile**
+🇧🇷 Brazil
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-</div>
+Sou Product Owner com experiência em **descoberta de produto, priorização e definição de requisitos**.  
+Atualmente estou em transição para a área de **desenvolvimento**, unindo **pensamento de produto** com **código**.
 
-###
+Meu objetivo é evoluir como **desenvolvedor front-end e mobile**, criando soluções que façam sentido para o usuário e para o negócio.
 
-<h2 align="left">Stats</h2>
+---
 
-###
+## 🌐 Onde me encontrar
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m3ndxs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m3ndxs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m3ndxs&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m3ndxs)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](leomeendes02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardo-vilas-boas-mendes-aa3345230)
 
-###
+---
 
-<h2 align="left">Social Media</h2>
+## 🧠 O que eu faço
 
-###
+### 🧠 Base técnica
+- Lógica de programação  
+- Git & GitHub  
+- Consumo de APIs  
 
-<div align="left">
-  <a href="www.linkedin.com/in/leonardo-vilas-boas-mendes-aa3345230" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+### 📦 Produto
+- Escrita de requisitos  
+- Priorização por valor  
+- MVP e visão de negócio  
+- Experiência do usuário (UX) 
 
-###
+---
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+---
+
+⭐ Fique à vontade para explorar os repositórios e acompanhar minha evolução! 
