@@ -1,7 +1,7 @@
 # Olá 👋, me chamo Leonardo Mendes
 
 🎯 **Product Owner em transição para Desenvolvimento Front-end & Mobile**
-🇧🇷 Brazil
+Brasil
 
 Sou Product Owner com experiência em **descoberta de produto, priorização e definição de requisitos**.  
 Atualmente estou em transição para a área de **desenvolvimento**, unindo **pensamento de produto** com **código**.
