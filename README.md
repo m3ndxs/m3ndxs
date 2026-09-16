@@ -1,11 +1,10 @@
 # Olá 👋, me chamo Leonardo Mendes
 
-🎯 **Product Owner em transição para Desenvolvimento Front-end & Mobile**
+🎯 **Desenvolvimento Mobile**
 
-Sou Product Owner com experiência em **descoberta de produto, priorização e definição de requisitos**.  
-Atualmente estou em transição para a área de **desenvolvimento**, unindo **pensamento de produto** com **código**.
+Sou Desenvolvedor Mobile com experiência em **descoberta de produto, priorização e definição de requisitos**.  
 
-Meu objetivo é evoluir como **desenvolvedor front-end e mobile**, criando soluções que façam sentido para o usuário e para o negócio.
+Meu objetivo é evoluir como **desenvolvedor mobile**, criando soluções que façam sentido para o usuário e para o negócio.
 
 ---
 
